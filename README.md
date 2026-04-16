@@ -53,4 +53,4 @@ python script_principal.py
 **Haytam Najim** - *Responsable du projet*
 
 ---
-*Fait avec ❤️ par Antigravity*
+*Fait avec ❤️*
